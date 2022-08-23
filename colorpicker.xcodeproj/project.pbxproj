@@ -54,7 +54,6 @@
 			children = (
 				574AEAB828B4630600A4C212 /* colorpickerApp.swift */,
 				574AEABA28B4630600A4C212 /* ContentView.swift */,
-				574AEAC628B465C900A4C212 /* README.md */,
 				574AEABC28B4630600A4C212 /* Assets.xcassets */,
 				574AEABE28B4630600A4C212 /* Preview Content */,
 			);
@@ -64,6 +63,7 @@
 		574AEABE28B4630600A4C212 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				574AEAC628B465C900A4C212 /* README.md */,
 				574AEABF28B4630600A4C212 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
